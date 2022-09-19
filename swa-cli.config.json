@@ -1,0 +1,12 @@
+{
+  "$schema": "https://aka.ms/azure/static-web-apps-cli/schema",
+  "configurations": {
+    "swaauth": {
+      "appLocation": "app",
+      "outputLocation": ".",
+      "appName": "swaauth",
+      "resourceGroupName": "swaauth-rg",
+      "env": "production"
+    }
+  }
+}
