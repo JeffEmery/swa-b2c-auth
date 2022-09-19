@@ -34,8 +34,6 @@ for authentication.
    Access Token"** from Azure Portal -> Azure AD B2C -> User Flows ->
    B2C_1_signupsignin -> Settings -> **Application claims**
 
-! Important
-
 ## Deploy the app
 
 1. Deploy the SWA with `swa deploy`
