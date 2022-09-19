@@ -50,4 +50,4 @@ for authentication.
 1. Follow the Login link to verify Azure Active Directory B2C works by signing
    up with an email address and completing the required user attribute fields.
 
-### ~fin~
+### _\~fin\~_
