@@ -1,11 +1,11 @@
 {
   "$schema": "https://aka.ms/azure/static-web-apps-cli/schema",
   "configurations": {
-    "swaauth": {
+    "swa-b2c-auth": {
       "appLocation": "app",
       "outputLocation": ".",
-      "appName": "swaauth",
-      "resourceGroupName": "swaauth-rg",
+      "appName": "swa-b2c-auth",
+      "resourceGroupName": "swa-b2c-auth-rg",
       "env": "production"
     }
   }
