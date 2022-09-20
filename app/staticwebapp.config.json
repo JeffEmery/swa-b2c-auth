@@ -15,7 +15,7 @@
           "login": {
             "nameClaimType": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name",
             "scopes": ["openid", "email", "profile", "phone"],
-            "loginParameterNames": []
+            "loginParameterNames": ["ui_locales=en-us"]
           },
           "enabled": true
         }
